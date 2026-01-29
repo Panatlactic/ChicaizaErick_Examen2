@@ -1,0 +1,18 @@
+# Archivos generados de Java y compilación
+/bin/
+*.class
+*.jar
+*.war
+
+# Archivos de configuración y temporales del IDE
+.vscode/
+.DS_Store # Archivos de macOS
+
+# Archivos temporales o de seguridad
+*~
+*.log
+/logs/
+
+# Archivos sensibles o de entrada/salida
+*.txt
+*.key
